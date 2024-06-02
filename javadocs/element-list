@@ -1,0 +1,13 @@
+com.jsacristan.word_card_back
+com.jsacristan.word_card_back.config
+com.jsacristan.word_card_back.config.auth
+com.jsacristan.word_card_back.controller
+com.jsacristan.word_card_back.dtos
+com.jsacristan.word_card_back.exceptions
+com.jsacristan.word_card_back.maps
+com.jsacristan.word_card_back.models
+com.jsacristan.word_card_back.rabbit
+com.jsacristan.word_card_back.repositories
+com.jsacristan.word_card_back.response
+com.jsacristan.word_card_back.services
+com.jsacristan.word_card_back.utils
